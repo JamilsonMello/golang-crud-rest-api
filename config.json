@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:password@tcp(db:3306)/crud_demo",
+    "port": 8080
+}
